@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brainf**k on Manas Mahale</title>
+    <link>https://manasmahale.xyz/tags/brainfk/</link>
+    <description>Recent content in Brainf**k on Manas Mahale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manasmahale.xyz/tags/brainfk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🦀 Rust ⦂⦂ Brainf**k Interpreter 🦀</title>
+      <link>https://manasmahale.xyz/posts/rust-3/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/rust-3/</guid>
+      <description>History Brainf**k hereafter referred to as BF, is a turing complete, esoteric programming language created by Urban Müller. For the uninitiated, esoteric languages are programming languages that are designed specifically to be unique, difficult to program in, or be just plain weird.
+Crash Course in BF OpCode Instruction &amp;gt; Increment the data pointer &amp;lt; Decrement the data pointer [ If the byte at the data pointer is zero, jump instruction pointer forward to the command after the matching ] command ] If the byte at the data pointer is nonzero, move instruction pointer to the command after the matching [ command , One byte Input at the data pointer .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://manasmahale.xyz/tags/brainfk/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/tags/rust/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/tags/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/rust-3/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/rust-2/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/rust-1/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/tags/p5js/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/project/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/categories/</loc>
+  </url>
+</urlset>

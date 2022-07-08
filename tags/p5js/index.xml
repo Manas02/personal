@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>p5js on Manas Mahale</title>
+    <link>https://manasmahale.xyz/tags/p5js/</link>
+    <description>Recent content in p5js on Manas Mahale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manasmahale.xyz/tags/p5js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🧑🏽‍🎨 Creative Coding 🎨</title>
+      <link>https://manasmahale.xyz/posts/project/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/project/</guid>
+      <description>A small subset of projects I&amp;rsquo;ve built over the years using p5.js.
+1️⃣ Project :: Symmetric Draw Note : Mouse press / touch the screen to draw and click save to download the image.
+2️⃣ Project :: Penrose Tile Note : Implementation of penrose tiles.
+3️⃣ Project :: Tan-Sin Ellipse Note : Refresh the window for random colours and move the cursor to change the flow.</description>
+    </item>
+    
+  </channel>
+</rss>

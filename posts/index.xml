@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Manas Mahale</title>
+    <link>https://manasmahale.xyz/posts/</link>
+    <description>Recent content in Posts on Manas Mahale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manasmahale.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🦀 Rust ⦂⦂ Brainf**k Interpreter 🦀</title>
+      <link>https://manasmahale.xyz/posts/rust-3/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/rust-3/</guid>
+      <description>History Brainf**k hereafter referred to as BF, is a turing complete, esoteric programming language created by Urban Müller. For the uninitiated, esoteric languages are programming languages that are designed specifically to be unique, difficult to program in, or be just plain weird.
+Crash Course in BF OpCode Instruction &amp;gt; Increment the data pointer &amp;lt; Decrement the data pointer [ If the byte at the data pointer is zero, jump instruction pointer forward to the command after the matching ] command ] If the byte at the data pointer is nonzero, move instruction pointer to the command after the matching [ command , One byte Input at the data pointer .</description>
+    </item>
+    
+    <item>
+      <title>🦀 Rust ⦂⦂ Type System 🦀</title>
+      <link>https://manasmahale.xyz/posts/rust-2/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/rust-2/</guid>
+      <description>Rust is a strongly typed language. The type of value defines the interpretation of the memory holding it and the operations that may be performed on the value. So let us familiarise ourselves with them.
+1️⃣ Boolean Rust implements Boolean as true &amp;amp; false.
+let some_condition : bool = true; let other_condition : bool = false; 2️⃣ Integer Rust implements integers as either signed or unsigned. The names of these types usually is self explanatory.</description>
+    </item>
+    
+    <item>
+      <title>🦀 Rust ⦂⦂ Initium 🦀</title>
+      <link>https://manasmahale.xyz/posts/rust-1/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/rust-1/</guid>
+      <description>Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but guarantees memory safety by using a borrow checker to validate references. Overall, it is a language worth learning with a supportive community and hereon in I’ll be documenting my Rust learning journey !
+Installing &amp;amp; Understanding the Ecosystem. 🧑‍💻 Go to rust-lang.org, and simply follow the instructions.</description>
+    </item>
+    
+    <item>
+      <title>🧑🏽‍🎨 Creative Coding 🎨</title>
+      <link>https://manasmahale.xyz/posts/project/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/project/</guid>
+      <description>A small subset of projects I&amp;rsquo;ve built over the years using p5.js.
+1️⃣ Project :: Symmetric Draw Note : Mouse press / touch the screen to draw and click save to download the image.
+2️⃣ Project :: Penrose Tile Note : Implementation of penrose tiles.
+3️⃣ Project :: Tan-Sin Ellipse Note : Refresh the window for random colours and move the cursor to change the flow.</description>
+    </item>
+    
+  </channel>
+</rss>
