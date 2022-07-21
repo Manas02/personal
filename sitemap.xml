@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manasmahale.xyz/tags/brainfk/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    <loc>https://manasmahale.xyz/tags/chemistry/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manasmahale.xyz/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manasmahale.xyz/posts/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://manasmahale.xyz/tags/rust/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manasmahale.xyz/tags/</loc>
-    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/molecule/</loc>
+    <lastmod>2022-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/tags/brainfk/</loc>
+    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/tags/rust/</loc>
+    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasmahale.xyz/posts/rust-4/</loc>
+    <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manasmahale.xyz/posts/rust-3/</loc>
     <lastmod>2022-03-21T00:00:00+00:00</lastmod>

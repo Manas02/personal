@@ -5,7 +5,16 @@
     <link>https://manasmahale.xyz/tags/brainfk/</link>
     <description>Recent content in Brainf**k on Manas Mahale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manasmahale.xyz/tags/brainfk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manasmahale.xyz/tags/brainfk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🦀 RayTracer ⦂⦂ Operator Overloading 🦀</title>
+      <link>https://manasmahale.xyz/posts/rust-4/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manasmahale.xyz/posts/rust-4/</guid>
+      <description>0️⃣ Installing Dependancies 1 2 3 4 5 # Cargo.toml [dependencies] assert_approx_eq = &amp;#34;1.1.0&amp;#34; rand = &amp;#34;0.8.4&amp;#34; 1️⃣ Import 1 2 3 4 5 use rand::Rng; use std::{f64, cmp::PartialEq, ops::{Add, Div, Mul, Neg, Sub}}; #[cfg(test)] use assert_approx_eq::assert_approx_eq; 2️⃣ 1 2 3 4 5 6 #[derive(Debug, Clone, Copy)] pub struct Vec3D { x: f64, y: f64, z: f64, } 3️⃣ Implementing Operators 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 impl Vec3D { pub fn new(x: f64, y: f64, z: f64) -&amp;gt; Vec3D { Vec3D { x, y, z } } pub fn random(min: f64, max: f64) -&amp;gt; Vec3D { let mut rng = rand::thread_rng(); Vec3D::new( rng.</description>
+    </item>
+    
     <item>
       <title>🦀 Rust ⦂⦂ Brainf**k Interpreter 🦀</title>
       <link>https://manasmahale.xyz/posts/rust-3/</link>
